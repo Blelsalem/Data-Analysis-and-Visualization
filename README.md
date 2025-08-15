@@ -70,11 +70,9 @@ Data-Analysis-and-Visualization/
 ## 📬 Contact
 
 👤 **Krishnarjun Mitra**  
-📧 krishnarjunmitra@gmail.com  
-🔗 [LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
+📧 mailtokrishnarjun@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/krishnarjun-mitra/) | [GitHub](https://github.com/Krishnarjunmitra/)
 
 ---
 
 > 💡 *This repository is actively maintained and updated with new projects. Stay tuned!*
-
-Would you like me to help you write the individual `README.md` files for each project folder too? That’ll make your repo even more polished and recruiter-friendly.
